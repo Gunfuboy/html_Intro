@@ -1,5 +1,4 @@
-<style>
-  .subscribe_button {
+.subscribe_button {
     background-color: rgb(204, 0, 0);
     color: white;
     border: none;
@@ -74,17 +73,3 @@
   .tweet_button:active{
     opacity: 0.7;
   }
-
-</style>
-
-<button class="subscribe_button">
-  SUBSCRIBE
-</button>
-
-<button class="join_button">
-  JOIN 
-</button>
-
-<button class="tweet_button">
-  Tweet
-</button>
